@@ -1,2 +1,3 @@
-# intro_to_python_for_geo
-An introduction to Python for geospatial analyses
+# An Introduction to Python for Geospatial Analysis
+
+This repository was created to deliver an introductory training to university students at the South and Southeast Asia Research Initiative training workshop in Chiang Mai July 2017. 
